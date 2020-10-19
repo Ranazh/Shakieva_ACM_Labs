@@ -1,0 +1,4 @@
+﻿  ConsoleApplication10.cpp
+c:\users\user\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(50): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+c:\users\user\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(56): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+  ConsoleApplication10.vcxproj -> C:\Users\User\source\repos\ConsoleApplication10\Debug\ConsoleApplication10.exe

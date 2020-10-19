@@ -1,0 +1,6 @@
+﻿  ConsoleApplication3.cpp
+c:\users\user\source\repos\acm\lab3_acm_2020\consoleapplication3\consoleapplication3\consoleapplication3.cpp(12): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\acm\lab3_acm_2020\consoleapplication3\consoleapplication3\consoleapplication3.cpp(13): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\acm\lab3_acm_2020\consoleapplication3\consoleapplication3\consoleapplication3.cpp(17): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\acm\lab3_acm_2020\consoleapplication3\consoleapplication3\consoleapplication3.cpp(18): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication3.vcxproj -> C:\Users\User\source\repos\ACM\Lab3_ACM_2020\ConsoleApplication3\Debug\ConsoleApplication3.exe

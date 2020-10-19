@@ -1,0 +1,6 @@
+﻿  ConsoleApplication5.cpp
+c:\users\user\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(11): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(12): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(16): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+  ConsoleApplication5.vcxproj -> C:\Users\User\source\repos\ConsoleApplication5\Debug\ConsoleApplication5.exe
